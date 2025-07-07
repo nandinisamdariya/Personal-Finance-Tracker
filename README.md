@@ -69,6 +69,17 @@ Design and implement a personal finance database that:
 
 ---
 
+## 📌 Learnings
+Practiced SQL queries, joins, views, and data aggregation
+
+Worked with real-world financial data
+
+Created visual dashboards using Tableau
+
+Understood the connection between backend and BI tools
+
+---
+
 ## 📌 SQL Code Snippet
 
 ```sql
@@ -83,11 +94,6 @@ FROM Users U
 LEFT JOIN Income I ON U.UserID = I.UserID
 GROUP BY U.UserID;
 
-## 📌 Learnings
-Practiced SQL queries, joins, views, and data aggregation
+---
 
-Worked with real-world financial data
 
-Created visual dashboards using Tableau
-
-Understood the connection between backend and BI tools
